@@ -1,1 +1,1 @@
-while 1;do vim | cat -e;done
+while true;do vim | cat -e;done
